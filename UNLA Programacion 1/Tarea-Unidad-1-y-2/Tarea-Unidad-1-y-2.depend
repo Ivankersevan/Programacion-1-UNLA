@@ -1,0 +1,157 @@
+# depslib dependency file v1.0
+1681697977 source:/home/ivan/Documentos/Tarea-Unidad-1-y-2/main.c
+	<stdio.h>
+	<stdlib.h>
+	"headerPrueba.h"
+
+1681672849 /home/ivan/Documentos/Tarea-Unidad-1-y-2/headerPrueba.h
+	<stdio.h>
+	<stdlib.h>
+
+1681677546 source:/home/ivan/Documentos/Tarea-Unidad-1-y-2/ejercicio1.c
+	<stdio.h>
+	<stdlib.h>
+	"headerPrueba.h"
+
+1681677546 source:/home/ivan/Documentos/Tarea-Unidad-1-y-2/ejercicio2.c
+	<stdio.h>
+	<stdlib.h>
+	"headerPrueba.h"
+
+1681688326 source:/home/ivan/Documentos/Tarea-Unidad-1-y-2/ejercicio3.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headerPrueba.h"
+
+1681690160 source:/home/ivan/Documentos/Tarea-Unidad-1-y-2/ejercicio4.c
+	<stdio.h>
+	<stdlib.h>
+	"headerPrueba.h"
+
+1681690566 source:/home/ivan/Documentos/Tarea-Unidad-1-y-2/ejercicio5.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headerPrueba.h"
+
+1681691126 source:/home/ivan/Documentos/Tarea-Unidad-1-y-2/ejercicio6.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headerPrueba.h"
+
+1681694113 source:/home/ivan/Documentos/Tarea-Unidad-1-y-2/ejercicio7.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headerPrueba.h"
+
+1681695284 source:/home/ivan/Documentos/Tarea-Unidad-1-y-2/ejercicio8.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headerPrueba.h"
+
+1681696693 source:/home/ivan/Documentos/Tarea-Unidad-1-y-2/ejercicio9.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headerPrueba.h"
+
+1681697400 source:/home/ivan/Documentos/Tarea-Unidad-1-y-2/ejercicio10.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headerPrueba.h"
+
+1681699032 source:/home/ivan/Documentos/Tarea-Unidad-1-y-2/ejercicio12.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headerPrueba.h"
+
+1681698640 source:/home/ivan/Documentos/Tarea-Unidad-1-y-2/ejercicio11.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headerPrueba.h"
+
+1681677546 source:/home/ivan/Escritorio/UNLA Programacion 1/Tarea-Unidad-1-y-2/ejercicio1.c
+	<stdio.h>
+	<stdlib.h>
+	"headerPrueba.h"
+
+1681672849 /home/ivan/Escritorio/UNLA Programacion 1/Tarea-Unidad-1-y-2/headerPrueba.h
+	<stdio.h>
+	<stdlib.h>
+
+1681697400 source:/home/ivan/Escritorio/UNLA Programacion 1/Tarea-Unidad-1-y-2/ejercicio10.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headerPrueba.h"
+
+1681698640 source:/home/ivan/Escritorio/UNLA Programacion 1/Tarea-Unidad-1-y-2/ejercicio11.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headerPrueba.h"
+
+1681699032 source:/home/ivan/Escritorio/UNLA Programacion 1/Tarea-Unidad-1-y-2/ejercicio12.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headerPrueba.h"
+
+1681677546 source:/home/ivan/Escritorio/UNLA Programacion 1/Tarea-Unidad-1-y-2/ejercicio2.c
+	<stdio.h>
+	<stdlib.h>
+	"headerPrueba.h"
+
+1681690160 source:/home/ivan/Escritorio/UNLA Programacion 1/Tarea-Unidad-1-y-2/ejercicio4.c
+	<stdio.h>
+	<stdlib.h>
+	"headerPrueba.h"
+
+1681690566 source:/home/ivan/Escritorio/UNLA Programacion 1/Tarea-Unidad-1-y-2/ejercicio5.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headerPrueba.h"
+
+1681691126 source:/home/ivan/Escritorio/UNLA Programacion 1/Tarea-Unidad-1-y-2/ejercicio6.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headerPrueba.h"
+
+1681694113 source:/home/ivan/Escritorio/UNLA Programacion 1/Tarea-Unidad-1-y-2/ejercicio7.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headerPrueba.h"
+
+1681695284 source:/home/ivan/Escritorio/UNLA Programacion 1/Tarea-Unidad-1-y-2/ejercicio8.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headerPrueba.h"
+
+1681696693 source:/home/ivan/Escritorio/UNLA Programacion 1/Tarea-Unidad-1-y-2/ejercicio9.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headerPrueba.h"
+
+1681697977 source:/home/ivan/Escritorio/UNLA Programacion 1/Tarea-Unidad-1-y-2/main.c
+	<stdio.h>
+	<stdlib.h>
+	"headerPrueba.h"
+
+1682082615 source:/home/ivan/Escritorio/UNLA Programacion 1/Tarea-Unidad-1-y-2/ejercicio3.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"headerPrueba.h"
+

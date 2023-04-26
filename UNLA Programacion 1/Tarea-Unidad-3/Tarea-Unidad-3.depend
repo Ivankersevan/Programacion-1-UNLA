@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1682084629 source:/home/ivan/Escritorio/UNLA Programacion 1/Tarea-Unidad-3/ejercicio1.c
+	<stdio.h>
+	<stdlib.h>
+	"headerUnidad3.h"
+
+1682084144 /home/ivan/Escritorio/UNLA Programacion 1/Tarea-Unidad-3/headerUnidad3.h
+	<stdio.h>
+	<stdlib.h>
+
+1682092650 source:/home/ivan/Escritorio/UNLA Programacion 1/Tarea-Unidad-3/main.c
+	<stdio.h>
+	<stdlib.h>
+	"headerUnidad3.h"
+
+1682084952 source:/home/ivan/Escritorio/UNLA Programacion 1/Tarea-Unidad-3/ejercicio2.c
+	<stdio.h>
+	<stdlib.h>
+	"headerUnidad3.h"
+
+1682088980 source:/home/ivan/Escritorio/UNLA Programacion 1/Tarea-Unidad-3/ejercicio3.c
+	<stdio.h>
+	<stdlib.h>
+	"headerUnidad3.h"
+
+1682089509 source:/home/ivan/Escritorio/UNLA Programacion 1/Tarea-Unidad-3/ejercicio4.c
+	<stdio.h>
+	<stdlib.h>
+	"headerUnidad3.h"
+
+1682089782 source:/home/ivan/Escritorio/UNLA Programacion 1/Tarea-Unidad-3/ejercicio5.c
+	<stdio.h>
+	<stdlib.h>
+	"headerUnidad3.h"
+
+1682089929 source:/home/ivan/Escritorio/UNLA Programacion 1/Tarea-Unidad-3/ejercicio6.c
+	<stdio.h>
+	<stdlib.h>
+	"headerUnidad3.h"
+
+1682090246 source:/home/ivan/Escritorio/UNLA Programacion 1/Tarea-Unidad-3/ejercicio7.c
+	<stdio.h>
+	<stdlib.h>
+	"headerUnidad3.h"
+
+1682092091 source:/home/ivan/Escritorio/UNLA Programacion 1/Tarea-Unidad-3/ejercicio8.c
+	<stdio.h>
+	<stdlib.h>
+	"headerUnidad3.h"
+
+1682094097 source:/home/ivan/Escritorio/UNLA Programacion 1/Tarea-Unidad-3/ejercicio9.c
+	<stdio.h>
+	<stdlib.h>
+	"headerUnidad3.h"
+
