@@ -16,11 +16,21 @@ void ejercicio4(void)
         scanf("%d",&numero);
         system("clear");
 
-        for(int i = INITIAL;i <= numero;i++)
+        if(numero > 0)
         {
-            factorial *= i;
-            printf("\n%d",factorial);
-        }
+            for(int i = INITIAL;i <= numero;i++)
+            {
+                factorial *= i;
+                printf("\n%d",factorial);
+            }
+
+        }else if(numero == 0)
+            {
+                printf("\nEl factorial de 0 es %d",1);
+            }else{
+                printf("\nEl factorial de numeros negativos es %d",0);
+            }
+
 
 
        printf("\nEscriba 's' si quiere salir de la actividad o sino ingrese cualquier dato\n");
